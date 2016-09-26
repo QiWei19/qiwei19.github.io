@@ -23,7 +23,7 @@ h6 {
 
 .topnav {
     font-size: 14px;
-    background-color: #f5f5f5;
+    background-color: #ffffff;
 }
 
 .lead {
@@ -32,10 +32,13 @@ h6 {
 }
 
 .highlight{
-  color: #2BBBAD;
+  color: #84E0B8;
+}
+.medium-font{
+  font-size: 23px;
 }
 .large-font{
-  font-size: 23px;
+  font-size: 30px;
 }
 
 .intro-header {
