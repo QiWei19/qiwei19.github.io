@@ -17,7 +17,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family:'Josefin Sans', sans-serif;
     font-weight: 700;
 }
 
@@ -32,7 +32,7 @@ h6 {
 }
 
 .highlight{
-  color: #84E0B8;
+  color: #EA6C68;
 }
 .medium-font{
   font-size: 23px;
